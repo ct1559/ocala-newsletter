@@ -1,1 +1,18 @@
-# ocala-newsletter
+## ocala-newsletter
+
+## Local testing
+  From the root directory, run the following command:
+  python -m http.server
+
+  The page should now be available at 'http:localhost:8000'
+
+## Technologies used
+
+  *HTML5
+  *CSS Flexbox module
+  *Python for a local HTTP server
+  *Github Pages for Deployment
+
+## See it live!
+
+  Navigate [here[](https://ct1559.github.io/ocala-newsletter) to see it live!]

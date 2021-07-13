@@ -47,6 +47,7 @@ p.date {
 .top-story img,
 .top-story p {
   width: 80%;
+  color: white;
   margin: 0 auto;
 }
 

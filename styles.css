@@ -1,7 +1,7 @@
 /* This stylesheet is "Desktop First" */
 
 html {
-  background: #F3F3F3;
+  background: #000000;
 }
 
 body {
@@ -34,7 +34,8 @@ body {
 }
 
 p.date {
-  border-bottom: 10px solid black;
+  border-bottom: 10px solid white;
+  color: white;
   width: 95%;
   margin: 0 auto;
   padding-bottom: 1em;
@@ -50,8 +51,8 @@ p.date {
 }
 
 .story {
-  border: 1px solid black;
-  background-color: #D8D8D8;
+  border: 1px solid white;
+  background-color: #00cdfb;
   margin: 0 3em 1.5em 3em;
   padding: 1em;
 }
@@ -64,6 +65,7 @@ h1,
 h2,
 h3 {
   font-family: "Lucida Grande", serif;
+  color: white;
 }
 
 h1 {
